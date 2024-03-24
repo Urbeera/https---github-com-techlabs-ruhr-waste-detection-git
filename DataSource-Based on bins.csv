@@ -1,0 +1,49 @@
+Categories,Type of bin,Waste,Saved Co2e(kg)/Per tonne recycled
+Organic waste,Brown bin,Indoor vegetation,1
+Organic waste,Brown bin,Potting soil,2
+Organic waste,Brown bin,Leaves,3
+Organic waste,Brown bin,Shrubs,4
+Organic waste,Brown bin,Leftover bread,5
+Organic waste,Brown bin,Rotten vegetables,6
+Organic waste,Brown bin,Rotten fruit,7
+Organic waste,Brown bin,Food scraps,8
+Organic waste,Brown bin,Bones,9
+Organic waste,Brown bin,Eggshells,10
+Organic waste,Brown bin,Tea leaves,11
+Organic waste,Brown bin,Tea bags,12
+Organic waste,Brown bin,Coffee grounds,13
+Organic waste,Brown bin,Coffee filters,14
+Organic waste,Brown bin,Wood shavings,15
+Organic waste,Brown bin,Fruit Peels,16
+Organic waste,Brown bin,Nutcores,17
+Organic waste,Brown bin,Cigarette ash,18
+Organic waste,Brown bin,Hair,19
+Organic waste,Brown bin,Meat,20
+Organic waste,Brown bin,Feathers,21
+Organic waste,Brown bin,Carcass of small animal,22
+Lightweight packaging,Yellow bin,Plastic cups,2
+Lightweight packaging,Yellow bin,Plastic bottles,2
+Lightweight packaging,Yellow bin,Empty cans (aluminium),12
+Lightweight packaging,Yellow bin,Steel,0.6
+Lightweight packaging,Yellow bin,Yoghurt cups,1.5
+Lightweight packaging,Yellow bin,Aluminium foil,9
+Lightweight packaging,Yellow bin,Cling film,1
+Lightweight packaging,Yellow bin,Toothbrushes,1
+Lightweight packaging,Yellow bin,Coffee packaging,2.5
+Lightweight packaging,Yellow bin,Milk carton,2.5
+Lightweight packaging,Yellow bin,Drinks box,1
+Lightweight packaging,Yellow bin,Bubble wrap,1
+Lightweight packaging,Yellow bin,Plastic bags,1
+Lightweight packaging,Yellow bin,Plastic Foam,1
+Paper,Blue bin,Newspapers,0.85
+Paper,Blue bin,Magazines,1.85
+Paper,Blue bin,Pamphlets,2.85
+Paper,Blue bin,Posters,3.85
+Paper,Blue bin,Copy paper,4.85
+Paper,Blue bin,Notebook,5.85
+Paper,Blue bin,Cardboard,6.85
+Paper,Blue bin,Cigarette cases,7.85
+Paper,Blue bin,Cardboard boxes,8.85
+Paper,Blue bin,Pizza boxes,9.85
+Paper,Blue bin,Cardboard for food packaging,10.85
+Waste glass,Glass containers,Glass,0.04
